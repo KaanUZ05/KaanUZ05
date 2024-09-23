@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 
+
+I'm currently studying in Bilkent University Computer Science department. I am a first grader.
+
+I am 18 years old.
+
+I live in Ankara, Turkey.
+
+
 
 <!--
 **KaanUZ05/KaanUZ05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
