@@ -22,7 +22,7 @@ While I have gained a solid understanding of computer architecture and digital d
 ---
 
 ### 🔭 Projects
-- **Forgotten Shores (2D Survival Game):** 
+- **Forgotten Shores (2D Survival Game):** A 2D single-player survival game built with **Java Swing & AWT** as a group project of CS102. Features a dynamic environment, grid-based crafting system, and hunger/thirst mechanics.
 - **Monopoly Game (Java & OOP):** A comprehensive simulation of the classic board game. I implemented complex OOP principles like Inheritance and Polymorphism to manage game states and player interactions (CS102 Lab Work).
 - **Yerime-Gez (Web Prototype):** Exploring full-stack development by prototyping a travel planning app with **Next.js** and **PostgreSQL**, leveraging AI tools to accelerate the workflow.
 - **Smart Parking System (Hardware):** Designed a digital control system using **SystemVerilog** on FPGA. *This project demonstrates my ability to work with low-level logic, although my main focus is high-level software.*
