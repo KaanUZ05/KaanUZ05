@@ -10,6 +10,7 @@ While I have gained a solid understanding of computer architecture and digital d
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MIPS_Assembly-00528A?style=for-the-badge&logo=mips&logoColor=white" />
 <img src="https://img.shields.io/badge/SystemVerilog-181717?style=for-the-badge&logo=linux&logoColor=white" /> 
 
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -19,6 +20,8 @@ While I have gained a solid understanding of computer architecture and digital d
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img src="https://img.shields.io/badge/Xilinx_Vivado-000000?style=for-the-badge&logo=amd&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 
 ---
 
