@@ -2,8 +2,8 @@
 
 I'm currently studying in Bilkent University Computer Science department. I am a second grader.
 
-I am a Sophomore CS student passionate about building efficient software and understanding hardware logic. My focus ranges from **Object-Oriented Programming** to **Digital Design on FPGA**.
-While I have gained a solid understanding of computer architecture and digital design through my coursework, my primary passion and career goal lie in building **software solutions**, exploring modern web technologies, and designing games.
+I am a Sophomore CS student passionate about building efficient software and understanding hardware logic. My focus ranges from **Object-Oriented Programming** to **Micro-Architecture Hardware Design**.
+While I have gained a solid understanding of computer architecture and digital design through my coursework, my primary passion and career goal lie in building **software solutions**, exploring modern web technologies, designing games, and leveraging modern AI tools.
 
 ### 🛠 Languages & Tools
 
